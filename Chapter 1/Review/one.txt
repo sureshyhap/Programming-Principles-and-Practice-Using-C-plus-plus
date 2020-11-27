@@ -1,0 +1,1 @@
+Software are programs written to run on hardware that will solve a problem

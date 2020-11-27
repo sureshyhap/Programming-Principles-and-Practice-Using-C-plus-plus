@@ -1,0 +1,1 @@
+Money or more importantly lives could be lost if software fails. For instance, if a robot malfunctions during automated surgery, the person being operated on could be severely hurt. Also if the records of who bought what stock is lost, a financial crisis in the stock market would occur
