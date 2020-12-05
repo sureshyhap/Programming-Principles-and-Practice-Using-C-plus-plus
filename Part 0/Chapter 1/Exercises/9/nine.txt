@@ -1,0 +1,20 @@
+I could be in IT, solving people's computer issues. -9
+
+I could go into computer networking. -6
+
+I could be a database administrator, managing a database. -9
+
+I could be a stock market broker, investing in stocks for clients. -12
+
+I could be an embedded systems electrical engineer who will work with low level computing systems and hardware - 18
+
+I could be a design electrical engineer designing circuits with CAD software. -12
+
+I could be a mechanical engineer designing parts with CAD software that will created by a 3D printer. -18
+
+I could be a civil engineer designing bridges using CAD software. - 11
+
+I could be a chemical engineer observing protein folding simulations. -11
+
+
+
