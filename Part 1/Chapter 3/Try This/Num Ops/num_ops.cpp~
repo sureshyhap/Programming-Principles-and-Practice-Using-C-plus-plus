@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main(int argc, char* argv[]) {
+  std::cout << "Enter an integer: ";
+  int n = {};
+  std::cin >> n;
+  std::cout << "n ==" << n
+	    << "\nn+1 == " << n + 1
+	    << "\nn three times" << 3 * n
+	    << ""
+  
+  return 0;
+}
