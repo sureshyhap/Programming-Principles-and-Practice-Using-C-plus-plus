@@ -1,0 +1,1 @@
+A source code is human readable code in a set programming language. Object code is closer to machine code and is operating system dependent

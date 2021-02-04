@@ -1,0 +1,1 @@
+It links object files that were either compiled source code files and/or the object code from the STL

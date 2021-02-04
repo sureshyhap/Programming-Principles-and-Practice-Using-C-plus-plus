@@ -1,0 +1,1 @@
+It translates source code to assembly object code which is closer to what the computer can understand
