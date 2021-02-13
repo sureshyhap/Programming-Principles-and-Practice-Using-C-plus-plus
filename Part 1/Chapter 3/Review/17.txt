@@ -1,0 +1,1 @@
+It is the combining of strings. You can do a C++ string plus a C++ string, a C++ string plus a C string, or a C string with a C++ string. You cannot do a C string plus a C string with the + operator

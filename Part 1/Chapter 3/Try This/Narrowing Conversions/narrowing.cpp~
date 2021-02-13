@@ -1,0 +1,12 @@
+#include <iostream>
+
+int main(int argc, char* argv[]) {
+  double d = {};
+  while (std::cin >> d) {
+    int i = d;
+    char c = i;
+    int i2 = c;
+    std::cout << d << ' ' << i << ' ' << i2 << '\n';
+  }
+  return 0;
+}

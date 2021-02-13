@@ -1,0 +1,9 @@
+This_little_pig - legal
+This_1_is_fine - legal
+2_For_1_special - illegal because it starts with a number
+latest thing - illegal because it has whitespace
+the_$12_method - illegal because of the $
+_this_is_ok - legal
+MiniMineMine - legal
+number - legal
+correct? - illegal because of the $

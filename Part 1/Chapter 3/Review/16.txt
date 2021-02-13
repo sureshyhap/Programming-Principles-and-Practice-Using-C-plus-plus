@@ -1,0 +1,2 @@
+Initialization creates a variable and puts a value into it for the first time.
+Assignment overwrites a previous value with a new one

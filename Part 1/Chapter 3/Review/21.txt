@@ -1,0 +1,1 @@
+Making sure a value is safe for a variable to hold. It is important because the value of the variable can be not what was expected if it can't hold a meaningful value

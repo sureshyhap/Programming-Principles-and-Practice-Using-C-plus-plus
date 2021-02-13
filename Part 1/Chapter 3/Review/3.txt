@@ -1,0 +1,2 @@
+std::cout << "Enter a number: ";
+std::cin >> number;

@@ -1,0 +1,1 @@
+It is the newline character it ends the current line and gets ready to output on a new line

@@ -1,0 +1,6 @@
+Repeated word: He
+Repeated word: He
+Repeated word: did
+Repeated word: very
+Repeated word: good
+There were 5 repeated words (not including first instance of the word)

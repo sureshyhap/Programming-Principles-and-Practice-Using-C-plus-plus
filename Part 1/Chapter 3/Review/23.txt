@@ -1,0 +1,1 @@
+It the value you are assigning is smaller than the maximum value that that type can hold, it is safe. If the value you are assigning is bigger than the maximum value that that type can hold, it is unsafe
